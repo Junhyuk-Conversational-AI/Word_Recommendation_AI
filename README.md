@@ -1,5 +1,5 @@
 # Word Recommendation AI
-**Demonstration Video URL** :  https://youtu.be/tJ-JmxiTZIU
+**Demonstration Video URL** :  https://youtu.be/3mKBxTA5x8I
 
 **Description** : I created an app using Streamlit that generates words beneficial for English learners, along with their meanings and appropriate emojis. The app provides examples of how these words are used in everyday life. To offer more accurate word recommendations, I applied few-shot learning to create more realistic examples to provide to users.
 
